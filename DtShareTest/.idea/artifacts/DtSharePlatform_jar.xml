@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DtSharePlatform:jar">
+    <output-path>D:/work/IDEA/StandVersion/DtConsultingNewsProject/DtConsultingNewsProject/DtBase/libs</output-path>
+    <root id="archive" name="DtSharePlatform.jar">
+      <element id="module-output" name="DtSharePlatform" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DtSharePlatform/ShareLibs/open_sdk.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DtSharePlatform/ShareLibs/libammsdk.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DtSharePlatform/ShareLibs/weibosdkcore.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DtSharePlatform/ShareLibs/mta-sdk-1.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

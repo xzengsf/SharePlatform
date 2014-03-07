@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="V4Libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../DtSharePlatform/V4Libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../DtSharePlatform/V4Libs" recursive="false" />
+  </library>
+</component>

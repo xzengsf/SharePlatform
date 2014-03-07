@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+        >
+
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Hello World, MyActivity"
+            />
+
+    <Button
+            android:id="@+id/btn_weibo"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="测试微博认证"></Button>
+
+    <Button
+            android:id="@+id/btn_weibo_logout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="退出微博登录"></Button>
+
+    <ImageView
+            android:id="@+id/img_test"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon"/>
+
+    <Button
+            android:id="@+id/btn_tencent"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="测试QQ认证"></Button>
+
+    <Button
+            android:id="@+id/btn_weichat"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="测试微信"></Button>
+</LinearLayout>
+
